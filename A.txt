@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-stud1hello from stud22
-=======
 1stud1hello from stud2
->>>>>>> bce46382bce65ad63e21c5d9170a1baa207b0ad8
 stud1stud2
 hello from stud2
